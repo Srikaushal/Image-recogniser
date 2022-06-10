@@ -1,0 +1,23 @@
+body{
+color: green;
+background-color: aquamarine;
+}
+
+.heading{
+width: 80%;
+font-size: 30px;
+}
+
+.name_of_all_objects{
+    color: darkblue !important;
+}
+
+#camera{
+    border:2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+#object_name,#result_accuracy{
+    color: maroon
+} ;
